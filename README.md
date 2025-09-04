@@ -1,8 +1,6 @@
-#This is a README file
-int i = 90;
-int j = 3;
+# This is a README file
+## Some code
 
-int div = i/j;
-return 0;
-
+'''
 python3 prog.py;
+'''
